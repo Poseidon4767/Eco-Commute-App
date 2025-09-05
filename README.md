@@ -12,23 +12,23 @@ EcoCommute is a mobility app designed **for college students** who need a cheap,
 
 ### 📱 Features
 * 📍 Real-time availability of e-scooters & bicycles around campus.
-* 🔑 Easy student login using college ID.
+* 🔑 Easy student login using ABC ID (planned).
 * 💳 Student discounts & wallet-based micro-payments.
 * 📊 Track your CO₂ savings & money saved compared to cabs.
 * 🛠️ Roadmap: Public transport integration (bus timings, routes, live updates).
 
 ### 🛠️ Tech Stack
 * **Frontend:** Kivy (Python) for cross-platform mobile app development.
-* **Backend (Planned):** FastAPI / Flask with REST APIs.
-* **Database:** SQLite (local) → PostgreSQL (scalable backend).
-* **Maps/Location:** OpenStreetMap / Google Maps API.
+* **Backend (Planned):** Flask with REST APIs.
+* **Database:** Still under discussion
+* **Maps/Location:** OpenStreetMap
 
 ### 🎯 Vision
 > Make daily commutes for students **cheaper, greener, and smarter**.
-> Our dream is to create a campus-wide and city-wide network of **eco-friendly rides**, cutting costs for students while reducing carbon emissions.
+> Our dream is to create a city-wide network of **eco-friendly rides**, cutting costs for students while reducing carbon emissions.
 
 ### 🔮 Roadmap
-* [x] Core app prototype with Kivy.
+* [ ] Core app prototype with Kivy.
 * [ ] Integration with location API for e-scooter/bike tracking.
 * [ ] Secure student authentication system.
 * [ ] Payment gateway for wallet top-ups.
@@ -42,7 +42,7 @@ We’re building EcoCommute for students, by students. Contributions are super w
 4. Open a PR 🚀
 
 ### 📜 License
-GNU License – free to use, free to modify, just keep it open-source 💚
+GPL-3.0 License – free to use, free to modify, just keep it open-source 💚
 
 ### 👩‍💻 Team
-EcoCommute is built by students, for students – passionate about **tech + sustainability**.
+EcoCommute is built by students, for students – passionate about **tech + sustainability + low cost**.
